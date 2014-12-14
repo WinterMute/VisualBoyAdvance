@@ -23,6 +23,8 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
+#include <SDL/SDL.h>
+
 #include "../AutoBuild.h"
 
 #include "../GBA.h"
